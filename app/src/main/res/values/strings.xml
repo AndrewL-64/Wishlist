@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Wishlist</string>
+    <string name="submit">SUBMIT</string>
+    <string name="url">Ex: https://example.example/my-item-url</string>
+    <string name="name">Item Name</string>
+    <string name="number">Ex: 5.99</string>
+</resources>
